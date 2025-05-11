@@ -1,0 +1,10 @@
+{
+  "name": "@creativefoundry/types",
+  "version": "0.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
